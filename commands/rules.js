@@ -7,22 +7,22 @@ module.exports = {
             .setTitle('Rules')
             .addFields({
                 name: 'Rule 1',
-                value: "Don't be a dick :gun: :crossed_swords:"
+                value: "Don't be a jerk :gun: :crossed_swords:"
             }, {
                 name: 'Rule 2',
-                value: 'Everyone is welcome :100: :pray: (unless ur a dick :gun:)'
+                value: 'Everyone is welcome :100: :pray: (unless ur a jerk :gun:)'
             }, {
                 name: 'Rule 3',
                 value: 'Try not to curse :pray:'
             }, {
                 name: 'Rule 4',
-                value: 'Keep Politics to a minimum (LOL JK JUST DONT BE A DICK) :gun: :pray: :crossed_swords:'
+                value: 'Keep Politics to a minimum (LOL JK JUST DONT BE A JERK) :gun: :pray: :crossed_swords:'
             }, {
                 name: 'Rule 5',
                 value: 'Have a BLAST, ask any qs u got :100: :pray: '
             }, {
                 name: 'Rule 5.2',
-                value: 'DON HELLA SECXY :hot_face: :sweat: :hot_face: '
+                value: 'DON HELLA SICCC :hot_face: :sweat: :hot_face: '
             })
             .setFooter("Stay safe :100:");
         msg.channel.send(newEmbed);
