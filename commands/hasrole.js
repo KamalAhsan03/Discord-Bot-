@@ -23,7 +23,7 @@ module.exports = {
         })
 
         if (!role) {
-            msg.reply(`${roleName} role doesn't exist g. :gun: `)
+            msg.reply(`${roleName} role doesn't exist. :gun: `)
             return;
         }
 
@@ -38,7 +38,7 @@ module.exports = {
             }
         } else {
             msg.react('\🔫')
-            msg.reply("This is treason, can't snake roles goon :angry: :gun:");
+            msg.reply("This is treason, can't snake roles :angry: :gun:");
         }
 
 
